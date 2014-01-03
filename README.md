@@ -1,6 +1,7 @@
 # jquery.rack.js
 
-Javascript helpers for [Rack](http://rack.github.io/).
+Javascript helpers for any [Rack](http://rack.github.io/) based application
+(except rails).
 
 ## Installation
 
