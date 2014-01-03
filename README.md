@@ -43,6 +43,10 @@ You can use both `data-confirm` and `data-method` attributes on any link!
 <a href="/articles/1" data-method="delete" data-confirm="Are you sure?">Destroy</a>
 ```
 
+## TODO
+
+* Add tests, I suck at javascript testing. Currently, all tests are `ok(true);`
+
 ## Contributing
 
 1. Fork it
